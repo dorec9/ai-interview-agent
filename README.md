@@ -1,6 +1,6 @@
 #  AI 면접관 Agent
 
-> LangGraph + GPT-4.1-mini 기반 개인화 AI 면접 시뮬레이션 시스템
+> LangGraph + GPT-4o-mini 기반 개인화 AI 면접 시뮬레이션 시스템
 
 ---
 
@@ -52,7 +52,7 @@ KT AI/DX 직무 면접을 타깃으로 설계되었으며, 사내 핵심가치 �
 
 ## 🛠️ 기술 스택
 
-- **LLM**: OpenAI GPT-4.1-mini
+- **LLM**: OpenAI GPT-4o-mini
 - **오케스트레이션**: LangGraph, LangChain
 - **벡터 DB**: Chroma + OpenAI Embeddings (RAG)
 - **문서 처리**: PyMuPDF, python-docx, unstructured
